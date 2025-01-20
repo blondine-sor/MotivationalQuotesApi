@@ -1,0 +1,2 @@
+# MotivationalQuotesApi
+ Returns motivational quotes
